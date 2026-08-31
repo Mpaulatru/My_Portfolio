@@ -34,6 +34,16 @@ export const navLinks = [
 
 export const projects = [
   {
+    id: 'intelretail-pro',
+    title: 'IntelRetail Pro',
+    description:
+      'Plataforma de inteligencia financiera, auditoría de catálogo y proyección estocástica para retail de alto rendimiento: el comercio carga su archivo de ventas (Excel/CSV) y obtiene en minutos un diagnóstico de márgenes, rotación y riesgo por producto, con IA que simula escenarios y sugiere estrategias de ventas.',
+    impact: 'De un archivo de ventas a un plan de acción en minutos',
+    tools: ['Python', 'SQL', 'Git', 'Vercel'],
+    repoUrl: '',
+    demoUrl: 'https://intelretail-pro.vercel.app',
+  },
+  {
     id: 'lapau-sql',
     title: 'Panadería Lapau — Hallazgos en SQL',
     description:
